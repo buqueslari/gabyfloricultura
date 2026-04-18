@@ -125,14 +125,14 @@ export default function RootLayout({ children }) {
         {/* Gaby Flores Manager Script */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17899645764"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-179645764"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'AW-17899645764');
+            gtag('config', 'AW-199645764');
           `}
         </Script>
       </head>
