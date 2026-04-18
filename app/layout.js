@@ -122,7 +122,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Gaby Flores Manager Script */}
+        {/* Giuliana Flores Manager Script */}
         <Script
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=AW-179645764"
